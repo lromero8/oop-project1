@@ -1,0 +1,31 @@
+#blueband{
+    background: #041E42; 
+    width: 20px;
+    height: 400px;
+    transform: rotate(-50deg);
+    position: absolute;
+    left: 90%;
+    bottom: 70%
+}
+
+#redband{
+    background: #BF0D3E; 
+    width: 20px;
+    height: 400px;
+    transform: rotate(-50deg);
+    position: absolute;
+    left: 90%;
+    bottom: 60%;
+}
+
+#bodyScroll{
+    overflow-x: hidden;
+}
+
+#mainDiv{
+    width:800px; margin:0 auto;
+}
+
+#heading{
+    margin-left: 35%; padding-top: 1%;
+}
